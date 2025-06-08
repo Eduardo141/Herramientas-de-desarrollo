@@ -1,3 +1,6 @@
+
+# Versión mejorada del script de instalación de Mininet
+
 #!/bin/bash
 
 # Script de instalación automatizada de Mininet
