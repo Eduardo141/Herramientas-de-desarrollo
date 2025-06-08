@@ -18,5 +18,8 @@ Los comandos ejecutados están en el archivo `instalacion_mininet.sh`.
 
 Eduardo - Ingeniería de Sisemas - Lima, Perú
 
+## Cambios recientes
+- Agregado un script de instalación automatizado.
+- Documentación actualizada para incluir ramas secundarias.
 
 
